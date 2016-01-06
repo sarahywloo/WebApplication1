@@ -1,0 +1,38 @@
+﻿body {
+
+}
+
+.header {
+    font-size: x-large;
+    margin: auto;
+    text-align: center;
+}
+
+.instruction{
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+.square {
+    width: 90px;
+    height: 90px;
+    background-color: #f0c8ec;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+}
+
+
+
+
+
+
+
